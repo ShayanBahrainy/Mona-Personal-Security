@@ -27,3 +27,5 @@ In CAD, we created the top of the main structure, the bottom, and the middle as 
 We struggled with getting the stepper motor to work, but after many hours, and some outside help, we realized that the board, a XIAO RP2040 was fried, and we switched to a Raspberry Pi Pico. This was our biggest problem, the stepper motor held us back several times.
 
 
+# Demo
+https://youtu.be/geNfsmsPVWY
