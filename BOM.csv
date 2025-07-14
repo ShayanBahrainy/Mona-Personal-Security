@@ -1,13 +1,14 @@
 Item Name,,Quantity,
-Stepper motor,1
+Stepper Motor (Nema17),1
 Motor driver,1
 Filament, 40 grams
-Raspberry pi pico,1
-Servo,2 big and 1 small
+Orpheus Pico,1
+Servo (MG996R),2
 Aluminum extrusion,1
 Wires,18
+USB Webcam, 1
 Buck converter,1
-Leds, 2
 Capacitor, 1
 Button, 1
-
+DC converter power supply, 1
+Power input board, 1
