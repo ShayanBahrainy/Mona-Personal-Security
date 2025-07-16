@@ -24,7 +24,7 @@ In CAD, we created the top of the main structure, the bottom, and the middle as 
 
 
 # Challenges
-We struggled with getting the stepper motor to work, but after many hours, and some outside help, we realized that the board, a XIAO RP2040 was fried, and we switched to a Raspberry Pi Pico. This was our biggest problem, the stepper motor held us back several times. The servos also weren't working for whatever reason, they didn't move no matter what the code did. The motors on the arm worked just fine though.
+We struggled with getting the stepper motor to work, but after many hours, and some outside help, we realized that the board, a XIAO RP2040 was fried, and we switched to a Raspberry Pi Pico. This was our biggest problem, the stepper motor held us back several times. The servos also weren't working for whatever reason, they didn't move no matter what the code did. The motors on the arm worked just fine though. Our issues were solved about a minute after the video was taken, after we fixed a single wire.
 
 
 # Demo
