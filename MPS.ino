@@ -5,8 +5,8 @@
 
 #define STEP 300
 
-Stepper stepper(STEP,11,10);  // create servo object to control a servo
-Servo servo_1;
+Stepper stepper(STEP,11,10);  
+Servo servo_1; // create servo object to control a servo
 Servo servo_2;
 
 
