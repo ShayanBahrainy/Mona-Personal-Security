@@ -11,6 +11,9 @@
 #### Driver code
 <img width="1920" height="1080" alt="driver" src="https://github.com/user-attachments/assets/edabe69b-d4ce-4d7b-a77d-1e3819e48efb" />
 
+#### Wiring Diagram
+<img width="1495" height="1239" alt="Screenshot From 2025-07-29 18-49-31" src="https://github.com/user-attachments/assets/cb50ed8e-4db0-4057-a2b4-a7de1fc02a18" />
+
 # Mona Personal Security
 A self-honing turret which uses a camera and OpenCV in order to detect faces and autonomously move the turret to shoot projectiles at them.
 The name, is of course, an ode to Mona, who accompanied us for many hours in GitHub HQ.
